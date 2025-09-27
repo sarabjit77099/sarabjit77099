@@ -4,10 +4,6 @@
          width="45" />, I'm Sarabjit Singh Kalsi!</h1>
 <h3 align="center">🚀 Cloud DevOps Engineer </h3>
 <h3 align="center">💼 DevOps Engineer at Techno India</h3>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/sarabjit77099/count.svg" />
-</p>
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
