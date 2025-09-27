@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Sarabjit Singh Kalsi!</h1>
-<h3 align="center">🚀 Cloud DevOps Engineer </h3>
+<h3 align="center">🚀 A passionate DevOps & Cloud Engineer with hands-on experience in building scalable infrastructures, automating deployments, and ensuring system reliability.</h3>
 <h3 align="center">💼 DevOps Engineer at Techno India</h3>
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
@@ -10,7 +10,6 @@
 </div>
 
 ## 🔥 About Me
-Hi, I’m Sarabjit Singh Kalsi 👨‍💻 — a passionate DevOps & Cloud Engineer with hands-on experience in building scalable infrastructures, automating deployments, and ensuring system reliability.
 
 🚀 Skilled in CI/CD, Kubernetes, Docker, Terraform, and AWS to design and manage modern cloud-native solutions.
 
