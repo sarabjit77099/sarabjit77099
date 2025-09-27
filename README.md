@@ -11,25 +11,25 @@
 
 ## 🔥 About Me
 
-🚀 Skilled in CI/CD, Kubernetes, Docker, Terraform, and AWS to design and manage modern cloud-native solutions.
+- 🚀 Skilled in CI/CD, Kubernetes, Docker, Terraform, and AWS to design and manage modern cloud-native solutions.
 
-🛠️ Experienced in automating build & release pipelines using Jenkins, GitHub Actions, and GitLab CI/CD, reducing deployment times and improving release reliability.
+- 🛠️ Experienced in automating build & release pipelines using Jenkins, GitHub Actions, and GitLab CI/CD, reducing deployment times and improving release reliability.
 
-☁️ Strong background in AWS services (EC2, S3, IAM, RDS, CloudWatch, Lambda) with additional exposure to Azure.
+- ☁️ Strong background in AWS services (EC2, S3, IAM, RDS, CloudWatch, Lambda) with additional exposure to Azure.
 
-📦 Passionate about Infrastructure as Code (Terraform, Ansible) and container orchestration (Kubernetes, Helm).
+- 📦 Passionate about Infrastructure as Code (Terraform, Ansible) and container orchestration (Kubernetes, Helm).
 
-📊 Skilled in setting up monitoring & logging solutions with Prometheus, Grafana, ELK Stack, and Splunk to enhance visibility and reduce incident resolution time.
+- 📊 Skilled in setting up monitoring & logging solutions with Prometheus, Grafana, ELK Stack, and Splunk to enhance visibility and reduce incident resolution time.
 
-🤝 Team player with proven experience collaborating across development, QA, and operations to deliver secure, scalable, and efficient applications.
+- 🤝 Team player with proven experience collaborating across development, QA, and operations to deliver secure, scalable, and efficient applications.
 
 ## 🌱 What I’m Currently Working On
 
-Designing 3-tier cloud architectures on AWS with autoscaling, load balancing, and robust backup strategies.
+- Designing 3-tier cloud architectures on AWS with autoscaling, load balancing, and robust backup strategies.
 
-Building end-to-end CI/CD pipelines for microservices with Kubernetes + Helm.
+- Building end-to-end CI/CD pipelines for microservices with Kubernetes + Helm.
 
-Exploring cost optimization & observability best practices in cloud environments.
+- Exploring cost optimization & observability best practices in cloud environments.
 
 ## 🛠️ Tech Stack
 - Languages: Java, Python, C, C++, PHP, JavaScript, TypeScript, SQL
